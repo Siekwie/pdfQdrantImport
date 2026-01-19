@@ -1,0 +1,4 @@
+qdrant-client>=1.7.0
+pymupdf4llm[ocr,layout]>=0.0.17
+sentence-transformers>=2.2.0
+torch>=2.0.0
